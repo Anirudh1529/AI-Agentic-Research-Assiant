@@ -1,0 +1,364 @@
+[
+  {
+    "timestamp": "2026-06-25T02:50:46.842025",
+    "topic": "AI in healthcare",
+    "summary": "Topic: AI in healthcare\n\nWeb result: The Rise of AI in Healthcare - Artificial intelligence ( AI ) is a technological revolution that promises to redefine the contours of modern medicine. From accelerating diagnoses to personalizing treatment plans, AI is poised to tackle some of healthcare's most pressing challenges. The Rise of AI in Healthcare Alan Turing first coined the term \"artificial intelligence\" in the 1950s. Two decades later, AI took its initial ... Web result: Artificial intelligence in healthcare: transforming the practice of ... - Artificial intelligence ( AI ) is a powerful and disruptive area of computer science, with the potential to fundamentally transform the practice of medicine and the delivery of healthcare .",
+    "citations": [
+      "The Rise of AI in Healthcare. Available at: https://duckduckgo.com/l/?uddg=https://mayomagazine.mayoclinic.org/2026/04/ai-in-healthcare/&rut=6bdf76c30d01ab177948740b1adc4ce6446abdb815e9b3ad499626cb9aebaf3e",
+      "Artificial intelligence in healthcare: transforming the practice of .... Available at: https://duckduckgo.com/l/?uddg=https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/&rut=c63639dcad07530dd9a18c1f87f18563d053997c082c377758986fa2f45e3670",
+      "AI in Healthcare: Uses, Examples and Benefits - Built In. Available at: https://duckduckgo.com/l/?uddg=https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare&rut=0a32238aa899db1e82802367ac287ccfbb057362ecb86592a10addceb72f942d",
+      "AI in Health Care: Applications, Benefits, and Examples. Available at: https://duckduckgo.com/l/?uddg=https://www.coursera.org/articles/ai-in-health-care&rut=2c815a36831fab827214989b2836109bf49671751a12df08cc44d850fa8ae5df",
+      "The Role of AI in Hospitals and Clinics: Transforming Healthcare in the .... Available at: https://duckduckgo.com/l/?uddg=https://pmc.ncbi.nlm.nih.gov/articles/PMC11047988/&rut=f39ffaa8f73bf2a44f1b3490ef1ee08be700419e9d21b94155061e95efbfd875"
+    ],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T02:58:18.310266",
+    "topic": "Machine learning",
+    "summary": "Topic: Machine learning\n\nWeb result: Machine Learning Tutorial - GeeksforGeeks - Machine learning is a branch of Artificial Intelligence that focuses on developing models and algorithms that let computers learn from data without being explicitly programmed for every task. In simple words, ML teaches systems to think and understand like humans by learning from the data. Web result: Machine learning - Wikipedia - Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without being explicitly programmed. [1] Advances in the field of deep learning have allowed neural networks, a class of statistical algorithms, to surpass many previous machine ... Web result: What is machine learning? - IBM - Machine learning is the subset of artificial intelligence (AI) focused on algorithms that can \"learn\" the patterns of training data and, subsequently, make accurate inferences about new data.",
+    "citations": [
+      "Machine Learning Tutorial - GeeksforGeeks. Available at: https://duckduckgo.com/l/?uddg=https://www.geeksforgeeks.org/machine-learning/machine-learning/&rut=ab8af49828b3ba0d537b160217e1b53881e7e07c972424112f629eefe4626610",
+      "Machine learning - Wikipedia. Available at: https://duckduckgo.com/l/?uddg=https://en.wikipedia.org/wiki/Machine_learning&rut=91803310165b3bb656ab7a96f6fbc9686e79deb8b4da04536a77ef2610963efd",
+      "What is machine learning? - IBM. Available at: https://duckduckgo.com/l/?uddg=https://www.ibm.com/think/topics/machine-learning&rut=ebc295c3e8ee72caf48ae94adc09ef255ed2011c1f1e673f1c4536405133eb08",
+      "Introduction to Machine Learning - GeeksforGeeks. Available at: https://duckduckgo.com/l/?uddg=https://www.geeksforgeeks.org/machine-learning/introduction-machine-learning/&rut=0a50e47e69403451be252196db63d473aca1cc120621c969bdb946adbf0cb8e6",
+      "Machine Learning (ML) Tutorial - Online Tutorials Library. Available at: https://duckduckgo.com/l/?uddg=https://www.tutorialspoint.com/machine_learning/index.htm&rut=e0a8a876d6768010e13beb6433a5b040a2f78c974b6f7e35e13e14af2f2dd72c"
+    ],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T02:58:18.830687",
+    "topic": "Machine learning",
+    "summary": "Topic: Machine learning\n\nWeb result: Machine Learning Tutorial - GeeksforGeeks - Machine learning is a branch of Artificial Intelligence that focuses on developing models and algorithms that let computers learn from data without being explicitly programmed for every task. In simple words, ML teaches systems to think and understand like humans by learning from the data. Web result: Machine learning - Wikipedia - Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without being explicitly programmed. [1] Advances in the field of deep learning have allowed neural networks, a class of statistical algorithms, to surpass many previous machine ... Web result: Introduction to Machine Learning - GeeksforGeeks - Machine Learning is a technique that allows computers to learn from data and make decisions without explicit programming. It works by identifying patterns in data and using them to make predictions.",
+    "citations": [
+      "Machine Learning Tutorial - GeeksforGeeks. Available at: https://duckduckgo.com/l/?uddg=https://www.geeksforgeeks.org/machine-learning/machine-learning/&rut=ab8af49828b3ba0d537b160217e1b53881e7e07c972424112f629eefe4626610",
+      "Machine learning - Wikipedia. Available at: https://duckduckgo.com/l/?uddg=https://en.wikipedia.org/wiki/Machine_learning&rut=91803310165b3bb656ab7a96f6fbc9686e79deb8b4da04536a77ef2610963efd",
+      "Introduction to Machine Learning - GeeksforGeeks. Available at: https://duckduckgo.com/l/?uddg=https://www.geeksforgeeks.org/machine-learning/introduction-machine-learning/&rut=0a50e47e69403451be252196db63d473aca1cc120621c969bdb946adbf0cb8e6",
+      "What is machine learning? - IBM. Available at: https://duckduckgo.com/l/?uddg=https://www.ibm.com/think/topics/machine-learning&rut=ebc295c3e8ee72caf48ae94adc09ef255ed2011c1f1e673f1c4536405133eb08",
+      "Machine Learning (ML) Tutorial - Online Tutorials Library. Available at: https://duckduckgo.com/l/?uddg=https://www.tutorialspoint.com/machine_learning/index.htm&rut=e0a8a876d6768010e13beb6433a5b040a2f78c974b6f7e35e13e14af2f2dd72c"
+    ],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T02:58:21.763099",
+    "topic": "Machine learning",
+    "summary": "Topic: Machine learning",
+    "citations": [],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T02:58:56.872197",
+    "topic": "AI in Machine learning",
+    "summary": "Topic: AI in Machine learning",
+    "citations": [],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T02:59:45.248997",
+    "topic": "AI in Computer Science",
+    "summary": "Topic: AI in Computer Science",
+    "citations": [],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T02:59:49.946226",
+    "topic": "AI in Computer Science",
+    "summary": "Topic: AI in Computer Science",
+    "citations": [],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T03:02:31.734089",
+    "topic": "AI in healthcare",
+    "summary": "Topic: AI in healthcare",
+    "citations": [],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T03:09:40.488516",
+    "topic": "AI in healthcare",
+    "summary": "Topic: AI in healthcare",
+    "citations": [],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T03:13:02.501786",
+    "topic": "AI in healthcare",
+    "summary": "Topic: AI in healthcare",
+    "citations": [],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T03:20:18.334748",
+    "topic": "AI in healthcare",
+    "summary": "Topic: AI in healthcare",
+    "citations": [],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T03:21:08.711947",
+    "topic": "AI in healthcare",
+    "summary": "Topic: AI in healthcare",
+    "citations": [],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T03:24:36.363656",
+    "topic": "AI in healthcare",
+    "summary": "Topic: AI in healthcare\n\nWeb result: AI in healthcare overview - A general reference overview for AI in healthcare that can be used while live search results are unavailable.",
+    "citations": [
+      "AI in healthcare overview. Available at: https://example.com/search?q=AI+in+healthcare"
+    ],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T03:24:36.516726",
+    "topic": "AI in healthcare",
+    "summary": "Topic: AI in healthcare\n\nWeb result: AI in healthcare overview - A general reference overview for AI in healthcare that can be used while live search results are unavailable.",
+    "citations": [
+      "AI in healthcare overview. Available at: https://example.com/search?q=AI+in+healthcare"
+    ],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T03:26:04.686654",
+    "topic": "AI in healthcare",
+    "summary": "Topic: AI in healthcare\n\nWeb result: The Rise of AI in Healthcare - Artificial intelligence ( AI ) is a technological revolution that promises to redefine the contours of modern medicine. From accelerating diagnoses to personalizing treatment plans, AI is poised to tackle some of healthcare's most pressing challenges. The Rise of AI in Healthcare Alan Turing first coined the term \"artificial intelligence\" in the 1950s. Two decades later, AI took its initial ... Web result: The Role of AI in Hospitals and Clinics: Transforming Healthcare in the ... - Moreover, AI plays a crucial role in patient care through remote monitoring, telemedicine, and virtual assistance, fundamentally altering the patient-doctor interaction paradigm [11].",
+    "citations": [
+      "The Rise of AI in Healthcare. Available at: https://duckduckgo.com/l/?uddg=https://mayomagazine.mayoclinic.org/2026/04/ai-in-healthcare/&rut=6bdf76c30d01ab177948740b1adc4ce6446abdb815e9b3ad499626cb9aebaf3e",
+      "The Role of AI in Hospitals and Clinics: Transforming Healthcare in the .... Available at: https://duckduckgo.com/l/?uddg=https://pmc.ncbi.nlm.nih.gov/articles/PMC11047988/&rut=f39ffaa8f73bf2a44f1b3490ef1ee08be700419e9d21b94155061e95efbfd875",
+      "How AI Is Used in Healthcare - Cleveland Clinic Health Essentials. Available at: https://duckduckgo.com/l/?uddg=https://health.clevelandclinic.org/ai-in-healthcare&rut=c92b22df7024640b5e1a2acafaaf1b70297b247e256b49439ba3e0614c6eb670",
+      "AI in Medicine | NEJM. Available at: https://duckduckgo.com/l/?uddg=https://www.nejm.org/ai-in-medicine&rut=a2dff3c561e3f5e0b03f8d44110548864841fd3a73ee8c72f46966a1283c82d2",
+      "Clinical AI Has Boomed. A New Stanford-Harvard State of Clinical AI .... Available at: https://duckduckgo.com/l/?uddg=https://medicine.stanford.edu/news/stories/2026/01/clinical-ai-has-boomed.html&rut=eb00f3c141248545edba8115a3a626c25bb880fae7e42aa8303efbde60695566"
+    ],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T03:27:10.288958",
+    "topic": "AI in healthcare",
+    "summary": "Topic: AI in healthcare\n\nWeb result: The Rise of AI in Healthcare - Artificial intelligence ( AI ) is a technological revolution that promises to redefine the contours of modern medicine. From accelerating diagnoses to personalizing treatment plans, AI is poised to tackle some of healthcare's most pressing challenges. The Rise of AI in Healthcare Alan Turing first coined the term \"artificial intelligence\" in the 1950s. Two decades later, AI took its initial ... Web result: Artificial intelligence in healthcare: transforming the practice of ... - Artificial intelligence ( AI ) is a powerful and disruptive area of computer science, with the potential to fundamentally transform the practice of medicine and the delivery of healthcare .",
+    "citations": [
+      "The Rise of AI in Healthcare. Available at: https://duckduckgo.com/l/?uddg=https://mayomagazine.mayoclinic.org/2026/04/ai-in-healthcare/&rut=6bdf76c30d01ab177948740b1adc4ce6446abdb815e9b3ad499626cb9aebaf3e",
+      "Artificial intelligence in healthcare: transforming the practice of .... Available at: https://duckduckgo.com/l/?uddg=https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/&rut=c63639dcad07530dd9a18c1f87f18563d053997c082c377758986fa2f45e3670",
+      "AI in Healthcare: Uses, Examples and Benefits - Built In. Available at: https://duckduckgo.com/l/?uddg=https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare&rut=0a32238aa899db1e82802367ac287ccfbb057362ecb86592a10addceb72f942d",
+      "AI in Health Care: Applications, Benefits, and Examples. Available at: https://duckduckgo.com/l/?uddg=https://www.coursera.org/articles/ai-in-health-care&rut=2c815a36831fab827214989b2836109bf49671751a12df08cc44d850fa8ae5df",
+      "The Role of AI in Hospitals and Clinics: Transforming Healthcare in the .... Available at: https://duckduckgo.com/l/?uddg=https://pmc.ncbi.nlm.nih.gov/articles/PMC11047988/&rut=f39ffaa8f73bf2a44f1b3490ef1ee08be700419e9d21b94155061e95efbfd875"
+    ],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T03:29:22.346741",
+    "topic": "AI in healthcare",
+    "summary": "Topic: AI in healthcare\n\nWeb result: The Rise of AI in Healthcare - Artificial intelligence ( AI ) is a technological revolution that promises to redefine the contours of modern medicine. From accelerating diagnoses to personalizing treatment plans, AI is poised to tackle some of healthcare's most pressing challenges. The Rise of AI in Healthcare Alan Turing first coined the term \"artificial intelligence\" in the 1950s. Two decades later, AI took its initial ... Web result: Artificial intelligence in healthcare: transforming the practice of ... - Artificial intelligence ( AI ) is a powerful and disruptive area of computer science, with the potential to fundamentally transform the practice of medicine and the delivery of healthcare .",
+    "citations": [
+      "The Rise of AI in Healthcare. Available at: https://duckduckgo.com/l/?uddg=https://mayomagazine.mayoclinic.org/2026/04/ai-in-healthcare/&rut=6bdf76c30d01ab177948740b1adc4ce6446abdb815e9b3ad499626cb9aebaf3e",
+      "Artificial intelligence in healthcare: transforming the practice of .... Available at: https://duckduckgo.com/l/?uddg=https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/&rut=c63639dcad07530dd9a18c1f87f18563d053997c082c377758986fa2f45e3670",
+      "AI in Healthcare: Uses, Examples and Benefits - Built In. Available at: https://duckduckgo.com/l/?uddg=https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare&rut=0a32238aa899db1e82802367ac287ccfbb057362ecb86592a10addceb72f942d",
+      "AI in Health Care: Applications, Benefits, and Examples. Available at: https://duckduckgo.com/l/?uddg=https://www.coursera.org/articles/ai-in-health-care&rut=2c815a36831fab827214989b2836109bf49671751a12df08cc44d850fa8ae5df",
+      "The Role of AI in Hospitals and Clinics: Transforming Healthcare in the .... Available at: https://duckduckgo.com/l/?uddg=https://pmc.ncbi.nlm.nih.gov/articles/PMC11047988/&rut=f39ffaa8f73bf2a44f1b3490ef1ee08be700419e9d21b94155061e95efbfd875"
+    ],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T03:29:34.442955",
+    "topic": "AI in healthcare",
+    "summary": "Topic: AI in healthcare\n\nWeb result: Artificial intelligence in healthcare: transforming the practice of ... - Artificial intelligence ( AI ) is a powerful and disruptive area of computer science, with the potential to fundamentally transform the practice of medicine and the delivery of healthcare . In this review article, we outline recent breakthroughs in the ... Web result: The Rise of AI in Healthcare - Artificial intelligence ( AI ) is a technological revolution that promises to redefine the contours of modern medicine. From accelerating diagnoses to personalizing treatment plans, AI is poised to tackle some of healthcare's most pressing challenges. The Rise of AI in Healthcare Alan Turing first coined the term \"artificial intelligence\" in the 1950s.",
+    "citations": [
+      "Artificial intelligence in healthcare: transforming the practice of .... Available at: https://duckduckgo.com/l/?uddg=https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/&rut=c63639dcad07530dd9a18c1f87f18563d053997c082c377758986fa2f45e3670",
+      "The Rise of AI in Healthcare. Available at: https://duckduckgo.com/l/?uddg=https://mayomagazine.mayoclinic.org/2026/04/ai-in-healthcare/&rut=6bdf76c30d01ab177948740b1adc4ce6446abdb815e9b3ad499626cb9aebaf3e",
+      "AI in Health Care: Applications, Benefits, and Examples. Available at: https://duckduckgo.com/l/?uddg=https://www.coursera.org/articles/ai-in-health-care&rut=2c815a36831fab827214989b2836109bf49671751a12df08cc44d850fa8ae5df",
+      "The Role of AI in Hospitals and Clinics: Transforming Healthcare in the .... Available at: https://duckduckgo.com/l/?uddg=https://pmc.ncbi.nlm.nih.gov/articles/PMC11047988/&rut=f39ffaa8f73bf2a44f1b3490ef1ee08be700419e9d21b94155061e95efbfd875",
+      "AI in Healthcare: Uses, Examples and Benefits - Built In. Available at: https://duckduckgo.com/l/?uddg=https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare&rut=0a32238aa899db1e82802367ac287ccfbb057362ecb86592a10addceb72f942d"
+    ],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T03:35:09.366361",
+    "topic": "AI in healthcare",
+    "summary": "Topic: AI in healthcare\n\nWeb result: The Rise of AI in Healthcare - Artificial intelligence ( AI ) is a technological revolution that promises to redefine the contours of modern medicine. From accelerating diagnoses to personalizing treatment plans, AI is poised to tackle some of healthcare's most pressing challenges. The Rise of AI in Healthcare Alan Turing first coined the term \"artificial intelligence\" in the 1950s. Two decades later, AI took its initial ... Web result: Artificial intelligence in healthcare: transforming the practice of ... - Artificial intelligence ( AI ) is a powerful and disruptive area of computer science, with the potential to fundamentally transform the practice of medicine and the delivery of healthcare .",
+    "citations": [
+      "The Rise of AI in Healthcare. Available at: https://duckduckgo.com/l/?uddg=https://mayomagazine.mayoclinic.org/2026/04/ai-in-healthcare/&rut=6bdf76c30d01ab177948740b1adc4ce6446abdb815e9b3ad499626cb9aebaf3e",
+      "Artificial intelligence in healthcare: transforming the practice of .... Available at: https://duckduckgo.com/l/?uddg=https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/&rut=c63639dcad07530dd9a18c1f87f18563d053997c082c377758986fa2f45e3670",
+      "AI in Healthcare: Uses, Examples and Benefits - Built In. Available at: https://duckduckgo.com/l/?uddg=https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare&rut=0a32238aa899db1e82802367ac287ccfbb057362ecb86592a10addceb72f942d",
+      "AI in Health Care: Applications, Benefits, and Examples. Available at: https://duckduckgo.com/l/?uddg=https://www.coursera.org/articles/ai-in-health-care&rut=2c815a36831fab827214989b2836109bf49671751a12df08cc44d850fa8ae5df",
+      "The Role of AI in Hospitals and Clinics: Transforming Healthcare in the .... Available at: https://duckduckgo.com/l/?uddg=https://pmc.ncbi.nlm.nih.gov/articles/PMC11047988/&rut=f39ffaa8f73bf2a44f1b3490ef1ee08be700419e9d21b94155061e95efbfd875"
+    ],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T03:35:09.478648",
+    "topic": "AI in healthcare",
+    "summary": "Topic: AI in healthcare\n\nWeb result: AI in healthcare overview - A general reference overview for AI in healthcare that can be used while live search results are unavailable.",
+    "citations": [
+      "AI in healthcare overview. Available at: https://example.com/search?q=AI+in+healthcare"
+    ],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T03:44:22.449665",
+    "topic": "AI in healthcare",
+    "summary": "Topic: AI in healthcare\n\nWeb result: The Rise of AI in Healthcare - Artificial intelligence ( AI ) is a technological revolution that promises to redefine the contours of modern medicine. From accelerating diagnoses to personalizing treatment plans, AI is poised to tackle some of healthcare's most pressing challenges. The Rise of AI in Healthcare Alan Turing first coined the term \"artificial intelligence\" in the 1950s. Two decades later, AI took its initial ... Web result: Artificial intelligence in healthcare: transforming the practice of ... - Artificial intelligence ( AI ) is a powerful and disruptive area of computer science, with the potential to fundamentally transform the practice of medicine and the delivery of healthcare .",
+    "citations": [
+      "The Rise of AI in Healthcare. Available at: https://duckduckgo.com/l/?uddg=https://mayomagazine.mayoclinic.org/2026/04/ai-in-healthcare/&rut=6bdf76c30d01ab177948740b1adc4ce6446abdb815e9b3ad499626cb9aebaf3e",
+      "Artificial intelligence in healthcare: transforming the practice of .... Available at: https://duckduckgo.com/l/?uddg=https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/&rut=c63639dcad07530dd9a18c1f87f18563d053997c082c377758986fa2f45e3670",
+      "AI in Health Care: Applications, Benefits, and Examples. Available at: https://duckduckgo.com/l/?uddg=https://www.coursera.org/articles/ai-in-health-care&rut=2c815a36831fab827214989b2836109bf49671751a12df08cc44d850fa8ae5df",
+      "AI in Healthcare: Uses, Examples and Benefits - Built In. Available at: https://duckduckgo.com/l/?uddg=https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare&rut=0a32238aa899db1e82802367ac287ccfbb057362ecb86592a10addceb72f942d",
+      "The Role of AI in Hospitals and Clinics: Transforming Healthcare in the .... Available at: https://duckduckgo.com/l/?uddg=https://pmc.ncbi.nlm.nih.gov/articles/PMC11047988/&rut=f39ffaa8f73bf2a44f1b3490ef1ee08be700419e9d21b94155061e95efbfd875"
+    ],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T03:44:22.563382",
+    "topic": "AI in healthcare",
+    "summary": "Topic: AI in healthcare\n\nWeb result: AI in healthcare overview - A general reference overview for AI in healthcare that can be used while live search results are unavailable.",
+    "citations": [
+      "AI in healthcare overview. Available at: https://example.com/search?q=AI+in+healthcare"
+    ],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T03:46:59.567257",
+    "topic": "AI in Computer science",
+    "summary": "Topic: AI in Computer science\n\nWeb result: The Role of AI in the Future of Computer Science - Monash Online - The role of artificial intelligence in computer science is constantly evolving, and it continues to have a transformative impact on the technology sector. For computer science professionals, gaining AI expertise is crucial to stay competitive within a shifting digital landscape. Web result: (PDF) Artificial Intelligence in Computer Science - ResearchGate - Artificial Intelligence ( AI ) has emerged as a cornerstone of modern computer science , exerting a profound influence on diverse sectors of society. This article offers a comprehensive overview of ... Web result: Artificial Intelligence 101 - GeeksforGeeks - Artificial Intelligence ( AI ) is a transformative subfield of computer science focused on creating machines capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, language understanding, and decision-making.",
+    "citations": [
+      "The Role of AI in the Future of Computer Science - Monash Online. Available at: https://duckduckgo.com/l/?uddg=https://online.monash.edu/news/role-of-ai-in-future-of-computer-science/&rut=665dc064ceec7fb0fcf6d996da6b1af595f12a3377526ae46d2b7fe81c55cf33",
+      "(PDF) Artificial Intelligence in Computer Science - ResearchGate. Available at: https://duckduckgo.com/l/?uddg=https://www.researchgate.net/publication/379459835_Artificial_Intelligence_in_Computer_Science&rut=1f2b9d61b4a954c557035378c8752d63002e0d440100ed29b9bcde25a68f9af8",
+      "Artificial Intelligence 101 - GeeksforGeeks. Available at: https://duckduckgo.com/l/?uddg=https://www.geeksforgeeks.org/artificial-intelligence/artificial-intelligence-101/&rut=3f6d58c2e847872f71d7f62d8c791a7c5a2d186abfebad6945bfbe65e143874b",
+      "What is Artificial Intelligence (AI) - GeeksforGeeks. Available at: https://duckduckgo.com/l/?uddg=https://www.geeksforgeeks.org/artificial-intelligence/what-is-artificial-intelligence-ai/&rut=a04f5a7c8d2d81a48939de157e42931b56ab8dcaa7531d7e958aaab6f14771c5",
+      "Professional Certificate in Computer Science for Artificial .... Available at: https://duckduckgo.com/l/?uddg=https://harvardonline.harvard.edu/program/professional-certificate-in-computer-science-for-artificial-intelligence&rut=caead35b1fd254071537e83beb042ed17f1158ea53477827323079f463b5eb12"
+    ],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  },
+  {
+    "timestamp": "2026-06-25T03:49:12.277004",
+    "topic": "AI in Automobile",
+    "summary": "Topic: AI in Automobile\n\nWeb result: AI in the automotive industry - IBM - AI in the automotive industry refers to the use of technologies like machine learning, deep learning and computer vision to revolutionize how vehicles are designed, built, run and supported. Web result: AI in the automotive industry: trends, benefits & use cases (2025) - Discover how AI in the automotive industry is driving transformation across the automotive value chain. Explore trends, benefits and real-world opportunities . Web result: Artificial Intelligence Revolutionising the Automotive Sector: A ... - The automotive sector is crucial in modern society, facilitating essential transportation needs across personal, commercial, and logistical domains while significantly contributing to national economic development and employment generation. The transformative impact of Artificial Intelligence ( AI ) has revolutionised multiple facets of the automotive industry, encompassing intelligent ...",
+    "citations": [
+      "AI in the automotive industry - IBM. Available at: https://duckduckgo.com/l/?uddg=https://www.ibm.com/think/topics/ai-in-automotive-industry&rut=0e5a984f95d165ba178620a029ff55db75921d53450a011fbb1cd6890ab6eec4",
+      "AI in the automotive industry: trends, benefits & use cases (2025). Available at: https://duckduckgo.com/l/?uddg=https://www.spglobal.com/automotive-insights/en/blogs/2025/07/ai-in-automotive-industry&rut=bb06e74b3bdb662c1f7848ff13391b25ee2e9348f8456822fc9cabee6df5de06",
+      "Artificial Intelligence Revolutionising the Automotive Sector: A .... Available at: https://duckduckgo.com/l/?uddg=https://www.sciencedirect.com/org/science/article/pii/S1546221825002139&rut=efedf14daaa79952eb3b8fd67b19006ed52ae159ffaa6dd2a0c22fdb57faa756",
+      "AI in Cars: 25 Examples of Automotive AI - Built In. Available at: https://duckduckgo.com/l/?uddg=https://builtin.com/artificial-intelligence/artificial-intelligence-automotive-industry&rut=014f1ddb27728fe85dd8c2f45cad220fc666017f618da41f758d47fc290284b6",
+      "11 gen AI use cases in automotive industry. Available at: https://duckduckgo.com/l/?uddg=https://lumenalta.com/insights/11-gen-ai-use-cases-in-automotive-industry&rut=4c623dd94e600e8992b72d52e8772ecba1c1c2f3bb18eac83992f71fba9dbe23"
+    ],
+    "workflow_steps": [
+      "Research collection",
+      "Context extraction",
+      "Summary generation",
+      "Presentation preparation"
+    ]
+  }
+]
